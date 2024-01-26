@@ -32,8 +32,7 @@ Simple and intuitive menu-based interface
 Java Development Kit (JDK)
 
 ## Example
-<per>
-Menu
+<per>Menu
 1. Wyświetl wszystkie wydatki
 2. Wyświetl wydatki z wybranego miesiąca
 3. Dodaj wydatek
@@ -48,8 +47,7 @@ Ubranie
 Ile to kosztowało?
 60
 Z którego miesiąca wydatek? (liczba)
-5
-</per>
+5</per>
 
 ## Feedback
 If you encounter any issues or have suggestions for improvement, feel free to open an issue in the GitHub repository. Your feedback is valuable!
