@@ -34,7 +34,7 @@ public class ExpenseManager {
         String type = scanner.nextLine();
         System.out.println("Ile to kosztowało?");
         double value = Double.parseDouble(scanner.nextLine());
-        System.out.println("Z którego miesiąca wydatek?");
+        System.out.println("Z którego miesiąca wydatek? (liczba)");
         int month = Integer.parseInt(scanner.nextLine());
 
 
